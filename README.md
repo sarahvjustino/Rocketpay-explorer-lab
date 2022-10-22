@@ -21,7 +21,7 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
   <img alt="rocketpay" src=".github/project.png" width="100%">
 </p>
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://explorer-lab-drab-six.vercel.app/)
+Você pode visualizar projeto completo através [DESSE LINK](https://explorer-lab-drab-six.vercel.app/)
 
 ## 🚀 Tecnologias
 
